@@ -1,6 +1,6 @@
 # First-Bit-solution-assignments-repo
 Hey everyone this is mine git repo files..<br>
-In this files i solve assignment questions/Answer<br>
+In this files i solve assignment questions/Answer<br><hr>
 
 1. Write a C program to add two integers and display the result<br>
 2. Write a C program to find the area of a circle.<br>
